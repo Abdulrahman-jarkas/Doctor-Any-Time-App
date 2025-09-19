@@ -1,0 +1,15 @@
+@Host = https://localhost:7287
+@ClinicId= c1d2b349-77f1-425d-a9f5-7137002c0d92
+@DoctorId= c1d2b349-77f1-425d-a9f5-7137002c0d93
+@ServiceId= c1d2b349-77f1-425d-a9f5-7137002c0d96
+
+
+POST {{Host}}/clinics/{{CLinicId}}/appointments/publish-availability
+Content-Type: application/json
+{
+	"DoctorId": "{{DoctorId}}",
+	"serviceIds": ["{{ServiceId}}"],
+	"appointmentDate": "2025-08-24",
+	"startTime": "03:00",
+	"endTime": "04:00"
+}

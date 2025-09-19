@@ -1,0 +1,11 @@
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\bin\Debug\net9.0\AppointmentReservation.Contracts.deps.json
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\bin\Debug\net9.0\AppointmentReservation.Contracts.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\bin\Debug\net9.0\AppointmentReservation.Contracts.pdb
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.AssemblyInfoInputs.cache
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.AssemblyInfo.cs
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.csproj.CoreCompileInputs.cache
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\refint\AppointmentReservation.Contracts.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\AppointmentReservation.Contracts.pdb
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Contracts\obj\Debug\net9.0\ref\AppointmentReservation.Contracts.dll

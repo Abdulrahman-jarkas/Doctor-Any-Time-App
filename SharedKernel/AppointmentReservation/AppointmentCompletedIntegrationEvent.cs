@@ -1,0 +1,3 @@
+﻿namespace SharedKernel.AppointmentReservation;
+
+public record AppointmentCompletedIntegrationEvent(Guid AppointmentId) : IIntegrationEvent;

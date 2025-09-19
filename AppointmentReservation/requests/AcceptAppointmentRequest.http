@@ -1,0 +1,11 @@
+@Host = https://localhost:7287
+
+@AppointmentId=107b7271-c94b-4765-9f6b-b1b7b9c0036e
+@AppointmentRequestId=42e2f997-ad4f-4e49-933b-a529ba663d40
+@RoomId=c1d2b349-77f1-425d-a9f5-7137002c0d94
+
+PUT {{Host}}/appointments/{{AppointmentId}}/requests/{{AppointmentRequestId}}
+Content-Type: application/json
+{
+  "roomId": "{{RoomId}}"
+}

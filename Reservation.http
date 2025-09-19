@@ -1,0 +1,33 @@
+@Host = https://localhost:7287
+@ClinicId= 3707286b-b11d-4f48-8fd5-839b1531688f
+@DoctorId= 92feba1e-e721-4bfc-a349-0c12aa995341
+@RoomId= 6fa8207a-a44a-4728-a9ab-2ff1a4fa6915
+@PatientId= c1d2b349-77f1-425d-a9f5-7137002c0d95
+@ServiceId1= 531b3567-e32c-4014-99a0-4cbab35cecfe
+@ServiceId2= c1d2b349-77f1-425d-a9f5-7137002c0d97
+
+POST {{Host}}/clinics/{{ClinicId}}/publish-availability
+Content-Type: application/json
+{
+  "doctorId": "{{DoctorId}}",
+  "serviceIds": ["{{ServiceId1}}"],
+  "appointmentDate": "2025-10-03",
+	"startTime": "07:00",
+	"endTime": "08:00"
+}
+
+###
+POST {{Host}}/availabilities/3d7c4eb2-7ba7-4385-a1d5-c531467c4e66/request
+Content-Type: application/json
+{
+  "patientId": "{{PatientId}}"
+}
+
+### 
+Put {{Host}}/availabilities/3d7c4eb2-7ba7-4385-a1d5-c531467c4e66/requests/485feb5e-1630-422a-a8f1-8dae46d320a9/accept
+Content-Type: application/json
+
+
+### 
+PUT {{Host}}/patients/{{PatientId}}/appointments/dbe8a636-4e22-44c6-805c-5e73041714a9/cancel
+Content-Type: application/json

@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "ChangeSubscription",
+    "RelativePath": "change-subscription",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ChangeSubscriptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "RemoveDoctor",
+    "RelativePath": "clinics/{id}/doctors/{doctorId}/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "AddDoctor",
+    "RelativePath": "clinics/{id}/doctors/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AddDoctorRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "RemoveClinic",
+    "RelativePath": "clinics/{id}/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RemoveClinicRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "RemoveRoom",
+    "RelativePath": "clinics/{id}/rooms/{roomId}/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roomId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "AddRoom",
+    "RelativePath": "clinics/{id}/rooms/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AddRoomRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagement.Api.Controllers.ClinicsController",
+    "Method": "AddClinic",
+    "RelativePath": "clinics/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AddClinicRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

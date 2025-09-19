@@ -1,0 +1,12 @@
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\bin\Debug\net9.0\AppointmentReservation.Domain.deps.json
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\bin\Debug\net9.0\AppointmentReservation.Domain.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\bin\Debug\net9.0\AppointmentReservation.Domain.pdb
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.csproj.AssemblyReference.cache
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.AssemblyInfo.cs
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\refint\AppointmentReservation.Domain.dll
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\AppointmentReservation.Domain.pdb
+D:\MyProjects\doctor-any-time\AppointmentReservation\src\AppointmentReservation.Domain\obj\Debug\net9.0\ref\AppointmentReservation.Domain.dll

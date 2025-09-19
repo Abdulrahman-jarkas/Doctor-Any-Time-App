@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ClinicManagement\\src\\ClinicManagement.Api\\ClinicManagement.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AppointmentReservation\\src\\AppointmentReservation.Api\\AppointmentReservation.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

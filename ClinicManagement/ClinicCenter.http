@@ -1,0 +1,47 @@
+@Host = http://localhost:5295
+@ClinicCenterId= c1d2b349-77f1-425d-a9f5-7137002c0d91
+@ClinicId= 30b7a0c8-a428-4ccf-864a-5289650c0496
+@DoctorId= 1
+@RoomId= 1
+@ServiceId1= 531b3567-e32c-4014-99a0-4cbab35cecfe
+@ServiceId2= e6dea8e3-4311-46e0-a75b-2b3fcb04cd12
+
+POST {{Host}}/clinics/add
+Content-Type: application/json
+{
+  "ClinicCenterId": "{{ClinicCenterId}}"
+}
+
+###
+DELETE {{Host}}/clinics/{{ClinicId}}/remove
+Content-Type: application/json
+{
+  "ClinicCenterId": "{{ClinicCenterId}}"
+}
+
+###
+POST {{Host}}/clinics/{{ClinicId}}/doctors/add
+Content-Type: application/json
+{
+  "ServiceIds": ["{{ServiceId1}}", "{{ServiceId2}}"]
+}
+
+###
+DELETE {{Host}}/clinics/{{ClinicId}}/doctors/{{DoctorId}}/remove
+
+###
+POST {{Host}}/clinics/{{ClinicId}}/rooms/add
+Content-Type: application/json
+{
+  "ServiceIds": ["{{ServiceId1}}"]
+}
+
+###
+DELETE {{Host}}/clinics/{{ClinicId}}/rooms/{{RoomId}}/remove
+
+###
+PUT {{Host}}/change-subscription
+Content-Type: application/json
+{
+  "ClinicCenterId": "{{ClinicCenterId}}"
+}

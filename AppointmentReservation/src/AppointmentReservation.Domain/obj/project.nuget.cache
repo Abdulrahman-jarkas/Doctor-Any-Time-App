@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEXfijGNQA0=",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\doctor-any-time\\AppointmentReservation\\src\\AppointmentReservation.Domain\\AppointmentReservation.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows.10\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512",
+    "C:\\Users\\Windows.10\\.nuget\\packages\\throw\\1.4.0\\throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

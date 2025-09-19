@@ -1,0 +1,17 @@
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\ClinicManagement.Application.deps.json
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\ClinicManagement.Application.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\ClinicManagement.Application.pdb
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\ClinicManagement.Domain.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\ClinicManagement.Domain.pdb
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.csproj.AssemblyReference.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.AssemblyInfoInputs.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.AssemblyInfo.cs
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicMa.5CCDC83B.Up2Date
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\refint\ClinicManagement.Application.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ClinicManagement.Application.pdb
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\obj\Debug\net9.0\ref\ClinicManagement.Application.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\SharedKernel.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Application\bin\Debug\net9.0\SharedKernel.pdb

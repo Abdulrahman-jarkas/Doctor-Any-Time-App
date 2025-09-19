@@ -1,0 +1,12 @@
+D:\MyProjects\doctor-any-time\SharedKernel\bin\Debug\net9.0\SharedKernel.deps.json
+D:\MyProjects\doctor-any-time\SharedKernel\bin\Debug\net9.0\SharedKernel.dll
+D:\MyProjects\doctor-any-time\SharedKernel\bin\Debug\net9.0\SharedKernel.pdb
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.AssemblyReference.cache
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.dll
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
+D:\MyProjects\doctor-any-time\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll

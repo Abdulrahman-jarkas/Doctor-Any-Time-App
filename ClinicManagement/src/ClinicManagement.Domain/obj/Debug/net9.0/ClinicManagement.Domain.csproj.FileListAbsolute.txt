@@ -1,0 +1,12 @@
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\bin\Debug\net9.0\ClinicManagement.Domain.deps.json
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\bin\Debug\net9.0\ClinicManagement.Domain.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\bin\Debug\net9.0\ClinicManagement.Domain.pdb
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.csproj.AssemblyReference.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.AssemblyInfo.cs
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\refint\ClinicManagement.Domain.dll
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ClinicManagement.Domain.pdb
+D:\MyProjects\doctor-any-time\ClinicManagement\src\ClinicManagement.Domain\obj\Debug\net9.0\ref\ClinicManagement.Domain.dll
